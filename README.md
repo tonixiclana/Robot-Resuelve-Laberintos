@@ -1,3 +1,5 @@
+
+![robot image](https://raw.githubusercontent.com/tonixiclana/Robot-Resuelve-Laberintos/master/Image%20robot.jpg)
 Proyecto realizado en la asignatura de Diseño de Computadores Empotrados en la Universidad de Cádiz.
 
 Video desmostrativo: https://youtu.be/FMRhzHOSbcs
