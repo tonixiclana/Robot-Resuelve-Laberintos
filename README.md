@@ -1,4 +1,6 @@
-Proyecto realizado en la asignatura de Diseño de Computadores Empotrados en la Universidad de Cádiz
+Proyecto realizado en la asignatura de Diseño de Computadores Empotrados en la Universidad de Cádiz.
+
+Video desmostrativo: https://youtu.be/FMRhzHOSbcs
 
 Consiste en un robot provisto de:
  Arduino leonardo.
